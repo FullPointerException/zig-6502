@@ -1,0 +1,4 @@
+ # Zig specific
+ .zig-cache/
+ zig-out/
+
