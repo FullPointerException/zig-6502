@@ -1,2 +1,15 @@
 * zig-6502
 6502 Emulator written in zig
+
+** Requirements
+zig >= 0.13.0 (Possibly older versions work, but I haven't verified)
+
+** Run
+#+BEGIN_SRC sh
+zig build run
+#+END_SRC
+
+** Test 
+#+BEGIN_SRC sh
+zig build test
+#+END_SRC
